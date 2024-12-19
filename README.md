@@ -1,4 +1,4 @@
-## Hey I'm Timmy, sometimes I write code.
+## Hey I'm Timmy, sometimes I write code. ![Sprout Mole from OMORI](https://github.com/realtimml/realtimml/blob/main/sprout_mole.gif?raw=true)
 
 ***"But don't you waste the suffering you've faced. It will serve you in due time."*** - 【=◈︿◈=】[^1]
 
