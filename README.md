@@ -11,6 +11,6 @@
   "education": "1st Year Computer Science B.S."
 }
 ```
-Reach me at [Linkedin](https://www.linkedin.com/) if you want to contact.
+Reach me at [Linkedin](https://www.linkedin.com/) if you like to contact.
 
 [^1]: [Porter Robinson - Get your Wish](https://www.youtube.com/watch?v=4SZEDBFPpgw)
