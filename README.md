@@ -5,9 +5,9 @@
 
 ```json
 {
-  "pronouns": "he/him"
-  "languages": ["Python", "HTML/CSS/Javascript"]
-  "university": "University of California, Irvine"
+  "pronouns": "he/him",
+  "languages": ["Python", "HTML/CSS/Javascript"],
+  "university": "University of California, Irvine",
   "education": "1st Year Computer Science B.S."
 }
 ```
